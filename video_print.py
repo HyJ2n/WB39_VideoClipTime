@@ -1,3 +1,5 @@
+# 비디오 한개에 저장
+
 import cv2
 from ultralytics import YOLO
 import os
